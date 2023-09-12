@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm a junior full-stack developer who is new to the field of web development. I have learned HTML, CSS, JavaScript, React, Vue.js and more through online courses and self-study. I have built several projects that involved data processing, analysis, and visualization using various APIs and libraries. I'm excited to learn new technologies and create user-friendly interfaces that solve real-world problems. <br>🔭 I’m currently working on Html, Css, Boostrap and JavaScript<br>🌱 I’m currently learning React and VueJs<br>📫 How to reach me cvkmert0@gmail.com
+Hi! I'm a junior full-stack developer who is new to the field of web development. I have learned HTML, CSS, JavaScript, React, Vue.js and more through online courses and self-study. I have built several projects that involved data processing, analysis, and visualization using various APIs and libraries. I'm excited to learn new technologies and create user-friendly interfaces that solve real-world problems. <br>🔭 I’m currently working on Html, Css, Boostrap and JavaScript<br>🌱 I’m currently learning React, VueJs and C#<br>📫 How to reach me cvkmert0@gmail.com
 
 
 ## 🌐 Socials:
